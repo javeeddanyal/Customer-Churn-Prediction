@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 11 22:11:57 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0164-8af8-c814-00000d8120e0 
+on database directory /home/javeed/JupyterNotebook*/Jupyter_Projects/AM_CHURN_Prediction/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@15a0c6cf 
+Loaded from file:/home/javeed/spark-2.3.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=/home/javeed/JupyterNotebook*/Jupyter_Projects/AM_CHURN_Prediction
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-24-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
